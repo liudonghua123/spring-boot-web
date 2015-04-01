@@ -1,0 +1,7 @@
+# eclipse project files
+.settings
+.classpath
+.project
+
+# maven build result
+target
